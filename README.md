@@ -1,4 +1,4 @@
-# Welcome, glad to see you here! Get started by reading this file.
+# How to contribute
 In this file you will know the basics of how to contribute
 ### Getting started
 1. To start, fork the repository at https://github.com/tiagorangel2011/dotprojectrequests/fork
