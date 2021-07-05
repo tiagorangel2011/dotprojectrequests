@@ -28,5 +28,5 @@ In this file you will know the basics of how to contribute
 
 4. Scroll down and click "Commit changes".  
 5. Go back to your package official website and click CONTRIBUTE > OPEN PULL REQUEST
-6. Use the template available at the the template.md file (https://github.com/tiagorangel2011/dotprojectrequests/blob/main/template.md) to write your comment
+6. Use the template available at the the commenttemplate.md file (https://github.com/tiagorangel2011/dotprojectrequests/blob/main/commenttemplate.md) to write your comment
 7. Submit your pull request
